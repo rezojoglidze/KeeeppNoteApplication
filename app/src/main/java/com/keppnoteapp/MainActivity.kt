@@ -9,61 +9,38 @@ import android.hardware.SensorEvent
 import android.hardware.SensorEventListener
 import android.hardware.SensorManager
 import android.os.Bundle
-import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import androidx.fragment.app.FragmentActivity
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.ItemTouchHelper
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.google.android.gms.auth.api.signin.GoogleSignIn
-import com.google.android.gms.common.api.Api
-import com.google.android.gms.common.api.GoogleApiClient
-import com.google.android.gms.fitness.Fitness
-import com.google.android.gms.fitness.FitnessOptions
-import com.google.android.gms.fitness.FitnessStatusCodes
-import com.google.android.gms.fitness.data.DataSource
-import com.google.android.gms.fitness.data.DataType
-import com.google.android.gms.fitness.request.DataReadRequest
-import com.google.android.gms.fitness.result.DataReadResponse
 import com.keppnoteapp.Adapters.WordListAdapter
 import com.keppnoteapp.RoomDatabase.Entity.Word
 import com.keppnoteapp.ViewModel.WordViewModel
 import kotlinx.android.synthetic.main.activity_main.*
-import kotlinx.android.synthetic.main.recyclerview_item.*
-import java.util.*
-import java.util.concurrent.TimeUnit
 
 
-class MainActivity : AppCompatActivity(), SensorEventListener {
+class MainActivity : AppCompatActivity(){
 
     private val newWordActivityRequestCode = 1
     private lateinit var wordViewModel: WordViewModel
 
     var adapter: WordListAdapter? = null
 
-    var running=false
-    var sensorManager:SensorManager?=null
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         supportActionBar?.hide()
 
-        sensorManager=getSystemService(Context.SENSOR_SERVICE) as SensorManager
-
-
         val recyclerView = findViewById<RecyclerView>(R.id.recyclerview)
         val adapter = WordListAdapter(this)
         this.adapter = adapter
         adapter.mainActivity = this
+
         recyclerView.adapter = adapter
         recyclerView.layoutManager = LinearLayoutManager(this)
-
-
-
 
         wordViewModel = ViewModelProvider(this).get(WordViewModel::class.java)
         setWordsObserver()
@@ -73,8 +50,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             val intent = Intent(this, AddNoteAcitivity::class.java)
             startActivityForResult(intent, newWordActivityRequestCode)
         }
-
-
 
 
         ItemTouchHelper(object : ItemTouchHelper.SimpleCallback(
@@ -90,7 +65,6 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                 return false
             }
 
-
             override fun onSwiped(viewHolder: RecyclerView.ViewHolder, direction: Int) {
                 var position = viewHolder.adapterPosition
                 var word: Word
@@ -101,43 +75,7 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             }
         }
         ).attachToRecyclerView(recyclerView)
-
     }
-
-
-    override fun onResume() {
-        super.onResume()
-        running=true
-        var stepsSensor=sensorManager?.getDefaultSensor(Sensor.TYPE_STEP_COUNTER)
-
-        if(stepsSensor==null){
-            Toast.makeText(this,"No step Counter Sensor!", Toast.LENGTH_SHORT).show()
-        } else{
-            sensorManager?.registerListener(this,stepsSensor,SensorManager.SENSOR_DELAY_UI)
-        }
-    }
-
-    override fun onPause() {
-        super.onPause()
-        running=false
-        sensorManager?.unregisterListener(this)
-    }
-
-    override fun onAccuracyChanged(sensor: Sensor?, accuracy: Int) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-    }
-
-    override fun onSensorChanged(event: SensorEvent?) {
-        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
-        if(running){
-            stepsValue.setText(""+event!!.values[0])
-        }
-    }
-
-
-
-
-
 
     private fun setWordsObserver() {
         wordViewModel.allWords.observe(this, Observer { words ->
@@ -160,6 +98,10 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
             )
             wordViewModel.insert(newNote)
 
+            var dada=(data.getFloatExtra(AddNoteAcitivity.EXTRA_STEP_COUNTER, Float.MAX_VALUE))
+          //  stepsValue.setText(dada)
+//            stepsValue.setText("Dadada :  $(data.getFloatExtra(AddNoteAcitivity.EXTRA_STEP_COUNTER))")
+//
             Toast.makeText(this, "Note saved!", Toast.LENGTH_SHORT).show()
         } else {
             Toast.makeText(
@@ -168,25 +110,11 @@ class MainActivity : AppCompatActivity(), SensorEventListener {
                 Toast.LENGTH_LONG
             ).show()
         }
-
-
-        val updateNote = Word(
-            data!!.getStringExtra(AddNoteAcitivity.EXTRA_TITLE_REPLY),
-            data.getStringExtra(AddNoteAcitivity.EXTRA_NOTE_REPLY),
-            data.getStringExtra(AddNoteAcitivity.EXTRA_DATE_REPLY),
-            data.getIntExtra(AddNoteAcitivity.EXTRA_COLOR_REPLY, Color.parseColor("#ffffff"))
-        )
-
-        updateNote.id = data.getIntExtra(AddNoteAcitivity.EXTRA_ID, -1)
-        wordViewModel.update(updateNote)
-
     }
-
 
     fun update(word: Word) {
         wordViewModel.update(word)
     }
-
 }
 
 

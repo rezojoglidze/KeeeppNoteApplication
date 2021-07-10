@@ -2,26 +2,28 @@ package com.keppnoteapp
 
 
 import android.app.Activity
+import android.content.Context
 import android.content.Intent
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
+import android.hardware.Sensor
+import android.hardware.SensorEvent
+import android.hardware.SensorEventListener
+import android.hardware.SensorManager
 import android.os.Build
 import android.os.Bundle
 import android.text.TextUtils
-import android.widget.Button
-import android.widget.EditText
-import android.widget.LinearLayout
-import android.widget.RadioGroup
+import android.widget.*
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_add_note.*
+import kotlinx.android.synthetic.main.activity_main.*
 import java.time.LocalDate
 import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 import java.time.format.FormatStyle
 
-
-class AddNoteAcitivity : AppCompatActivity() {
+class AddNoteAcitivity : AppCompatActivity(), SensorEventListener {
 
     companion object {
         const val EXTRA_ID = "EXTRA_ID"
@@ -29,12 +31,16 @@ class AddNoteAcitivity : AppCompatActivity() {
         const val EXTRA_NOTE_REPLY = "note.REPLY"
         const val EXTRA_DATE_REPLY = "date.REPLY"
         const val EXTRA_COLOR_REPLY = "color.REPLY"
+        const val EXTRA_STEP_COUNTER="stepCounter.REPLY"
     }
-
 
     private lateinit var noteEditText: EditText
     private lateinit var titleEditText: EditText
 
+    private  var stepCounter : Float ?=null
+
+    var running=false
+    var sensorManager: SensorManager?=null
 
     @RequiresApi(Build.VERSION_CODES.O)
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -44,6 +50,9 @@ class AddNoteAcitivity : AppCompatActivity() {
         titleEditText = findViewById(R.id.Get_Title_Text)
         //Action bar hide
         supportActionBar?.hide()
+
+        sensorManager=getSystemService(Context.SENSOR_SERVICE) as SensorManager
+
 
         val saveButton = findViewById<Button>(R.id.button_save)
         val radio = findViewById<RadioGroup>(R.id.radioGroup)
@@ -80,9 +89,9 @@ class AddNoteAcitivity : AppCompatActivity() {
                     putExtra(EXTRA_NOTE_REPLY, Get_Note_Text.text.toString())
                     putExtra(EXTRA_DATE_REPLY, getEditedTimeTextView.text.toString())
                     putExtra(EXTRA_COLOR_REPLY, color)
+                    putExtra(EXTRA_STEP_COUNTER,stepCounter)
 
                 }
-
                 setResult(Activity.RESULT_OK, data)
                 finish()
             }
@@ -102,5 +111,32 @@ class AddNoteAcitivity : AppCompatActivity() {
         }
     }
 
+    override fun onResume() {
+        super.onResume()
+        running=true
+        var stepsSensor=sensorManager?.getDefaultSensor(Sensor.TYPE_STEP_COUNTER)
 
+        if(stepsSensor==null){
+            Toast.makeText(this,"No step Counter Sensor!", Toast.LENGTH_SHORT).show()
+        } else{
+            sensorManager?.registerListener(this,stepsSensor,SensorManager.SENSOR_DELAY_UI)
+        }
+    }
+
+    override fun onPause() {
+        super.onPause()
+        running=false
+        sensorManager?.unregisterListener(this)
+    }
+
+    override fun onAccuracyChanged(sensor: Sensor?, accuracy: Int) { }
+
+
+    override fun onSensorChanged(event: SensorEvent?) {
+        if(running){
+            imenatext.setText((""+event!!.values[0]).toString())
+             stepCounter=event!!.values[0]
+            //event.accuracy
+        }
+    }
 }

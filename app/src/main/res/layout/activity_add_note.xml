@@ -20,7 +20,16 @@
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:gravity="end">
-
+            <TextView
+                android:id="@+id/imenatext"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginRight="80dp"
+                android:textSize="25dp"
+                android:text="2112"
+                android:src="@drawable/more_vert_icon"></TextView>
             <RadioGroup
             android:id="@+id/radioGroup"
             android:layout_width="wrap_content"
@@ -83,10 +92,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center">
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:src="@drawable/more_vert_icon"></ImageView>
+
         </LinearLayout>
         <LinearLayout
             android:layout_width="wrap_content"

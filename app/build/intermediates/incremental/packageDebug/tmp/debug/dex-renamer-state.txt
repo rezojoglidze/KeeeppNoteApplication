@@ -1,4 +1,4 @@
-#Tue Feb 18 16:23:35 GET 2020
-base.0=/Users/rezo/Desktop/KeppNoteApplication/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Sat Jul 10 01:05:16 GET 2021
+base.0=/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

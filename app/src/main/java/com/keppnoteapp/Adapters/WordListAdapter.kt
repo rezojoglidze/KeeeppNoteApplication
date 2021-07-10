@@ -32,8 +32,6 @@ class WordListAdapter(context: Context) : RecyclerView.Adapter<WordListAdapter.W
         val before_Update_Note: TextView = itemView.findViewById(R.id.before_Update_Note)
         val before_Update_Date: TextView = itemView.findViewById(R.id.before_Update_Date)
 
-
-
         val update_Note_Layout: LinearLayout = itemView.findViewById(R.id.update_Note_Layout)
         val updated_Title: EditText = itemView.findViewById(R.id.updated_Title)
         val updated_Note: EditText = itemView.findViewById(R.id.updated_Note)
@@ -41,17 +39,12 @@ class WordListAdapter(context: Context) : RecyclerView.Adapter<WordListAdapter.W
         val updateSaveButton: Button = itemView.findViewById(R.id.updateSaveButton)
 
         lateinit var word: Word
-
     }
 
-
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): WordViewHolder {
-
         val itemView: View =
             LayoutInflater.from(parent.context).inflate(R.layout.recyclerview_item, parent, false)
         return WordViewHolder(itemView)
-
-        //val adapter = WordListAdapter()
     }
 
 
@@ -63,7 +56,6 @@ class WordListAdapter(context: Context) : RecyclerView.Adapter<WordListAdapter.W
         holder.before_Update_Note.text = currentNote.note
         holder.before_Update_Title.text = currentNote.title//!!
         holder.before_Update_Date.text = currentNote.date
-
 
         val gd = GradientDrawable()
         // Specify the shape of drawable
@@ -85,7 +77,6 @@ class WordListAdapter(context: Context) : RecyclerView.Adapter<WordListAdapter.W
         holder.before_Update_Background_Layout.background = gd
 
 
-
         holder.before_Update_Background_Layout.setOnClickListener() {
             holder.updated_Note.setText(holder.before_Update_Note.text.toString())
             holder.updated_Title.setText(holder.before_Update_Title.text.toString())
@@ -94,9 +85,6 @@ class WordListAdapter(context: Context) : RecyclerView.Adapter<WordListAdapter.W
 
             holder.update_Note_Layout.background=holder.before_Update_Background_Layout.background
         }
-
-
-
 
         holder.updateSaveButton.setOnClickListener() {
 
@@ -120,14 +108,9 @@ class WordListAdapter(context: Context) : RecyclerView.Adapter<WordListAdapter.W
             var position = holder.adapterPosition
             updateNote.id= words[position].id
 
-
             mainActivity?.update(updateNote)
           //notifyDataSetChanged()   recycleView-s shecvlisas idzaxebaa
         }
-
-
-
-
 
         holder.itemView.setOnClickListener {
             onItemClick?.invoke()//intents agdzravs

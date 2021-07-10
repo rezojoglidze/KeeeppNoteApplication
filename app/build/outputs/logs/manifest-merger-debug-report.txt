@@ -1,309 +1,309 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-MERGED from [androidx.room:room-ktx:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2b2bf9fb5a31e08abbd9a640086e98b3/room-ktx-2.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c0e58243c57ab32f458beffd16a907d4/lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a3dd40076fb1aa4032dab9e86677200c/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.0.2] /Users/rezo/.gradle/caches/transforms-2/files-2.1/66e2865556a6c9354acff342343505fa/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezo/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:17:1-27:12
-MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/dc6503a1ebeb5d78f6259a963f885b72/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/4b5b42ad315c37cc8e23ff006c2bb3aa/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/280da15155d0d56d70e7caaff06720f7/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/0f4501d13c165054fa137530cafc3fd1/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/7034d30b19b127a19660862334887356/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a1de51f63c4b020051488d72507823dc/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/3cdc01c6be11d655b7be3ca9fa541192/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.fragment:fragment:1.2.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1634a2ce32bcd415a6f8fb67c2d46436/fragment-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/8da2983fad5001fb339f81d2312f00a4/lifecycle-livedata-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.1.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/15a67a80c162d67ac3944a5847992fca/activity-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/24584d2b4f3e02373b15f3ba19723dc9/lifecycle-viewmodel-savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/e58c423e73fcd517bfc48fe4fcf8e19f/lifecycle-livedata-core-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/7c6636ec62ad2c4f482a80212e8dde81/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:17:1-32:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f833d99f1a2be923ca0ce46e26d0e677/lifecycle-service-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f3e56877bc6da310e08a648eecbd26a4/transition-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1b8db2e6915cf693828c34a0b08c8558/lifecycle-runtime-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/b0af4bd25e8bd0125497169244a78c79/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/27d1a1802f42fd71684c423c908f5e31/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/dfb1f22e942c156be6987681931b441d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.room:room-ktx:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2b2bf9fb5a31e08abbd9a640086e98b3/room-ktx-2.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c0e58243c57ab32f458beffd16a907d4/lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a3dd40076fb1aa4032dab9e86677200c/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/66e2865556a6c9354acff342343505fa/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/dc6503a1ebeb5d78f6259a963f885b72/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/4b5b42ad315c37cc8e23ff006c2bb3aa/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/280da15155d0d56d70e7caaff06720f7/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/0f4501d13c165054fa137530cafc3fd1/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/7034d30b19b127a19660862334887356/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a1de51f63c4b020051488d72507823dc/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/3cdc01c6be11d655b7be3ca9fa541192/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1634a2ce32bcd415a6f8fb67c2d46436/fragment-1.2.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/8da2983fad5001fb339f81d2312f00a4/lifecycle-livedata-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/15a67a80c162d67ac3944a5847992fca/activity-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/24584d2b4f3e02373b15f3ba19723dc9/lifecycle-viewmodel-savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/e58c423e73fcd517bfc48fe4fcf8e19f/lifecycle-livedata-core-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/7c6636ec62ad2c4f482a80212e8dde81/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f833d99f1a2be923ca0ce46e26d0e677/lifecycle-service-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f3e56877bc6da310e08a648eecbd26a4/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1b8db2e6915cf693828c34a0b08c8558/lifecycle-runtime-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/b0af4bd25e8bd0125497169244a78c79/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/27d1a1802f42fd71684c423c908f5e31/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/dfb1f22e942c156be6987681931b441d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:3:5-30
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:3:5-30
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:1-26:12
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACTIVITY_RECOGNITION
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:5:5-78
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:5:5-78
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:5:22-76
 uses-feature#android.hardware.sensor.stepcounter
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:6:5-95
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:6:5-95
 	android:required
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:6:70-93
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:6:70-93
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:6:19-69
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:6:19-69
 uses-feature#android.hardware.sensor.stepdetector
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:7:5-96
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:7:5-96
 	android:required
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:7:71-94
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:7:71-94
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:7:19-70
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:7:19-70
 application
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:11:5-25:19
-MERGED from [com.google.android.material:material:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezo/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezo/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:24:5-28:19
-MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:24:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:24:5-30:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:24:5-30:19
-MERGED from [androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:11:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:24:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:16:9-35
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:15:9-61
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:15:9-61
 	android:icon
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:13:9-56
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:13:9-56
 	android:allowBackup
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:17:9-40
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:17:9-40
 activity#com.keppnoteapp.MainActivity
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:18:9-23:20
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:18:9-23:20
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:18:19-47
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:18:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:19:13-22:29
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:19:13-22:29
 action#android.intent.action.MAIN
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:20:17-69
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:20:17-69
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:20:25-66
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:20:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:21:17-77
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:21:27-74
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:21:27-74
 activity#com.keppnoteapp.AddNoteAcitivity
-ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:24:9-63
+ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:24:9-63
 	android:name
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:24:19-51
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:24:19-51
 uses-sdk
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-MERGED from [androidx.room:room-ktx:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2b2bf9fb5a31e08abbd9a640086e98b3/room-ktx-2.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-ktx:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2b2bf9fb5a31e08abbd9a640086e98b3/room-ktx-2.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c0e58243c57ab32f458beffd16a907d4/lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c0e58243c57ab32f458beffd16a907d4/lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a3dd40076fb1aa4032dab9e86677200c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a3dd40076fb1aa4032dab9e86677200c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.0.2] /Users/rezo/.gradle/caches/transforms-2/files-2.1/66e2865556a6c9354acff342343505fa/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.0.2] /Users/rezo/.gradle/caches/transforms-2/files-2.1/66e2865556a6c9354acff342343505fa/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezo/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezo/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/dc6503a1ebeb5d78f6259a963f885b72/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/dc6503a1ebeb5d78f6259a963f885b72/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/4b5b42ad315c37cc8e23ff006c2bb3aa/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/4b5b42ad315c37cc8e23ff006c2bb3aa/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/280da15155d0d56d70e7caaff06720f7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/280da15155d0d56d70e7caaff06720f7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/0f4501d13c165054fa137530cafc3fd1/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/0f4501d13c165054fa137530cafc3fd1/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/7034d30b19b127a19660862334887356/sqlite-2.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/7034d30b19b127a19660862334887356/sqlite-2.0.1/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a1de51f63c4b020051488d72507823dc/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a1de51f63c4b020051488d72507823dc/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/3cdc01c6be11d655b7be3ca9fa541192/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/3cdc01c6be11d655b7be3ca9fa541192/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.2.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1634a2ce32bcd415a6f8fb67c2d46436/fragment-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1634a2ce32bcd415a6f8fb67c2d46436/fragment-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/8da2983fad5001fb339f81d2312f00a4/lifecycle-livedata-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/8da2983fad5001fb339f81d2312f00a4/lifecycle-livedata-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/15a67a80c162d67ac3944a5847992fca/activity-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/15a67a80c162d67ac3944a5847992fca/activity-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/24584d2b4f3e02373b15f3ba19723dc9/lifecycle-viewmodel-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc01] /Users/rezo/.gradle/caches/transforms-2/files-2.1/24584d2b4f3e02373b15f3ba19723dc9/lifecycle-viewmodel-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/e58c423e73fcd517bfc48fe4fcf8e19f/lifecycle-livedata-core-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/e58c423e73fcd517bfc48fe4fcf8e19f/lifecycle-livedata-core-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/7c6636ec62ad2c4f482a80212e8dde81/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/7c6636ec62ad2c4f482a80212e8dde81/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f833d99f1a2be923ca0ce46e26d0e677/lifecycle-service-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f833d99f1a2be923ca0ce46e26d0e677/lifecycle-service-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f3e56877bc6da310e08a648eecbd26a4/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f3e56877bc6da310e08a648eecbd26a4/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1b8db2e6915cf693828c34a0b08c8558/lifecycle-runtime-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/1b8db2e6915cf693828c34a0b08c8558/lifecycle-runtime-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/b0af4bd25e8bd0125497169244a78c79/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/b0af4bd25e8bd0125497169244a78c79/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/27d1a1802f42fd71684c423c908f5e31/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/27d1a1802f42fd71684c423c908f5e31/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/dfb1f22e942c156be6987681931b441d/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/dfb1f22e942c156be6987681931b441d/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+MERGED from [androidx.room:room-ktx:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2b2bf9fb5a31e08abbd9a640086e98b3/room-ktx-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2b2bf9fb5a31e08abbd9a640086e98b3/room-ktx-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c0e58243c57ab32f458beffd16a907d4/lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c0e58243c57ab32f458beffd16a907d4/lifecycle-viewmodel-ktx-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/946093075d78eb9f74f58a48d61f96ab/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a3dd40076fb1aa4032dab9e86677200c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a3dd40076fb1aa4032dab9e86677200c/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/66e2865556a6c9354acff342343505fa/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/66e2865556a6c9354acff342343505fa/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/140e197d83343f156dc84b9dfd575292/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1dc571f300f3964a1c8004fa01344930/lifecycle-extensions-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:18.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/80375bde634a12cebb1eb22c30e8e773/play-services-fitness-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/dc6503a1ebeb5d78f6259a963f885b72/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/dc6503a1ebeb5d78f6259a963f885b72/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/4b5b42ad315c37cc8e23ff006c2bb3aa/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/4b5b42ad315c37cc8e23ff006c2bb3aa/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/cc49b32293b6ca9e924e3f5ec7f94c93/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/12e3091321384669e8f586318ef1d685/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/3c86d6f3154e362e2ac7bcaee0a8b231/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/280da15155d0d56d70e7caaff06720f7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/280da15155d0d56d70e7caaff06720f7/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/0f4501d13c165054fa137530cafc3fd1/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/0f4501d13c165054fa137530cafc3fd1/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/7034d30b19b127a19660862334887356/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/7034d30b19b127a19660862334887356/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a1de51f63c4b020051488d72507823dc/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a1de51f63c4b020051488d72507823dc/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/3cdc01c6be11d655b7be3ca9fa541192/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/3cdc01c6be11d655b7be3ca9fa541192/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1e262b765da55377ffa760d09f76b781/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1634a2ce32bcd415a6f8fb67c2d46436/fragment-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1634a2ce32bcd415a6f8fb67c2d46436/fragment-1.2.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/9d820099421ea00e96b2625ea6c19c4c/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/8da2983fad5001fb339f81d2312f00a4/lifecycle-livedata-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/8da2983fad5001fb339f81d2312f00a4/lifecycle-livedata-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/15a67a80c162d67ac3944a5847992fca/activity-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/15a67a80c162d67ac3944a5847992fca/activity-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/24584d2b4f3e02373b15f3ba19723dc9/lifecycle-viewmodel-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-rc01] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/24584d2b4f3e02373b15f3ba19723dc9/lifecycle-viewmodel-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/e58c423e73fcd517bfc48fe4fcf8e19f/lifecycle-livedata-core-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/e58c423e73fcd517bfc48fe4fcf8e19f/lifecycle-livedata-core-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/7c6636ec62ad2c4f482a80212e8dde81/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/7c6636ec62ad2c4f482a80212e8dde81/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f833d99f1a2be923ca0ce46e26d0e677/lifecycle-service-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f833d99f1a2be923ca0ce46e26d0e677/lifecycle-service-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f3e56877bc6da310e08a648eecbd26a4/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f3e56877bc6da310e08a648eecbd26a4/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/29a6593c42d1f7975c962d8d95b5ed40/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/d87973ebeeaea2fc000b73c69c9f5f39/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/4681ba69b992d1066d0f86ff962fa316/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1138a1941bf86b99853b89ce79c7fc71/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/e7c663d08d0478d87f07969d53991dd8/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/164e16dd8741398891092fcad60e6640/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/fe76cbed9b9df926e6dd828b9c57ebf7/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1b8db2e6915cf693828c34a0b08c8558/lifecycle-runtime-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/1b8db2e6915cf693828c34a0b08c8558/lifecycle-runtime-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/b0af4bd25e8bd0125497169244a78c79/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/b0af4bd25e8bd0125497169244a78c79/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/27d1a1802f42fd71684c423c908f5e31/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/27d1a1802f42fd71684c423c908f5e31/lifecycle-viewmodel-2.2.0-rc02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/dfb1f22e942c156be6987681931b441d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/dfb1f22e942c156be6987681931b441d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/b49a3cb0a0186e54d18812f26e6e4ce2/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c9eb4efc2103a05ad6203fd4d78919fe/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/a7ac5d9832a55e02f327cca94b1b2adb/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/2958bfeff871706e37e023803895bb19/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/225c82d8c731985fb415caed199cb7eb/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		ADDED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
-ADDED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:25:9-27:40
+ADDED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:25:9-27:40
 	android:exported
-		ADDED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:26:13-74
+		ADDED from [androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:26:13-74
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:25:9-29:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:25:9-29:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:27:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:27:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:29:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:29:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:28:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:26:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:26:13-79

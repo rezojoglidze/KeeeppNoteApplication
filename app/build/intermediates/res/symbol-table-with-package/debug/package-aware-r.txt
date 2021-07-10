@@ -1218,6 +1218,7 @@ id icon_group
 id icon_only
 id ifRoom
 id image
+id imenatext
 id info
 id invisible
 id italic
@@ -1301,7 +1302,6 @@ id src_in
 id src_over
 id standard
 id start
-id stepsValue
 id stretch
 id submenuarrow
 id submit_area

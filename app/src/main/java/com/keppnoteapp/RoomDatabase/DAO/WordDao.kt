@@ -1,10 +1,8 @@
 package com.keppnoteapp.RoomDatabase.DAO
 
-
 import androidx.lifecycle.LiveData
 import androidx.room.*
 import com.keppnoteapp.RoomDatabase.Entity.Word
-
 
 @Dao
 interface WordDao {

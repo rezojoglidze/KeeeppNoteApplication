@@ -50,13 +50,6 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
-            <TextView
-                android:id="@+id/stepsValue"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="top"
-                android:layout_marginLeft="25dp"
-                android:hint="stepsValue" />
 
             <TextView
                 android:id="@+id/before_Update_Date"

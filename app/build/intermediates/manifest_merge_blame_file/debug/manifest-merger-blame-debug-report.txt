@@ -6,119 +6,119 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="20"
-8-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+8-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml
+9-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
-11-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:5:5-78
-11-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:5:22-76
+11-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:5:5-78
+11-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:5:22-76
 12
 13    <uses-feature
-13-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:6:5-95
+13-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:6:5-95
 14        android:name="android.hardware.sensor.stepcounter"
-14-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:6:19-69
+14-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:6:19-69
 15        android:required="true" />
-15-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:6:70-93
+15-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:6:70-93
 16    <uses-feature
-16-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:7:5-96
+16-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:7:5-96
 17        android:name="android.hardware.sensor.stepdetector"
-17-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:7:19-70
+17-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:7:19-70
 18        android:required="true" />
-18-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:7:71-94
+18-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:7:71-94
 19
 20    <application
-20-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:11:5-25:19
+20-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:11:5-25:19
 21        android:allowBackup="true"
-21-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:12:9-35
+21-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:12:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:18-86
+22-->[androidx.core:core:1.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/df2ac4fe6b88cbdd1c862077d2fdf1ec/core-1.1.0/AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
 24        android:icon="@drawable/application_background"
-24-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:13:9-56
+24-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:13:9-56
 25        android:label="@string/app_name"
-25-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:14:9-41
+25-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:14:9-41
 26        android:roundIcon="@drawable/application_background"
-26-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:15:9-61
+26-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:15:9-61
 27        android:supportsRtl="true"
-27-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:16:9-35
+27-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:16:9-35
 28        android:testOnly="true"
 29        android:theme="@style/AppTheme" >
-29-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:17:9-40
+29-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:17:9-40
 30        <activity android:name="com.keppnoteapp.MainActivity" >
-30-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:18:9-23:20
-30-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:18:19-47
+30-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:18:9-23:20
+30-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:18:19-47
 31            <intent-filter>
-31-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:19:13-22:29
+31-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:19:13-22:29
 32                <action android:name="android.intent.action.MAIN" />
-32-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:20:17-69
-32-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:20:25-66
+32-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:20:17-69
+32-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:20:25-66
 33
 34                <category android:name="android.intent.category.LAUNCHER" />
-34-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:21:17-77
-34-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:21:27-74
+34-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:21:17-77
+34-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:21:27-74
 35            </intent-filter>
 36        </activity>
 37        <activity android:name="com.keppnoteapp.AddNoteAcitivity" />
-37-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:24:9-63
-37-->/Users/rezo/Desktop/KeppNoteApplication/app/src/main/AndroidManifest.xml:24:19-51
+37-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:24:9-63
+37-->/Users/rezojoglidze/Desktop/Projects/Android Apps/KeepNoteApplication/app/src/main/AndroidManifest.xml:24:19-51
 38
 39        <service
-39-->[androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:25:9-27:40
+39-->[androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:25:9-27:40
 40            android:name="androidx.room.MultiInstanceInvalidationService"
-40-->[androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:26:13-74
+40-->[androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:26:13-74
 41            android:exported="false" />
-41-->[androidx.room:room-runtime:2.2.1] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:27:13-37
+41-->[androidx.room:room-runtime:2.2.1] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c382ca2268e1ddf0b3f31b03383f7250/room-runtime-2.2.1/AndroidManifest.xml:27:13-37
 42
 43        <activity
-43-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+43-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
 44            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-44-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+44-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
 45            android:excludeFromRecents="true"
-45-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+45-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
 46            android:exported="false"
-46-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+46-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
 47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-47-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+47-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
 48        <!--
 49            Service handling Google Sign-In user revocation. For apps that do not integrate with
 50            Google Sign-In, this service will never be started.
 51        -->
 52        <service
-52-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+52-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
 53            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-53-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+53-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
 54            android:exported="true"
-54-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+54-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
 55            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-55-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+55-->[com.google.android.gms:play-services-auth:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/c3fda009bd8424ecc89cf0dd3eca26eb/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
 56
 57        <activity
-57-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+57-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
 58            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-58-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+58-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:24:13-79
 59            android:exported="false"
-59-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+59-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:25:13-37
 60            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-60-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+60-->[com.google.android.gms:play-services-base:17.1.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/f85237a6b30439b98d304c3d3d2d745e/play-services-base-17.1.0/AndroidManifest.xml:26:13-72
 61
 62        <meta-data
-62-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+62-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 63            android:name="com.google.android.gms.version"
-63-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+63-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
 64            android:value="@integer/google_play_services_version" />
-64-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rezo/.gradle/caches/transforms-2/files-2.1/015ea284d2f2b8deda95b819f395b94b/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+64-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/89d9e384cbd62326cde3dbe307efdf48/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
 65
 66        <provider
-66-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:25:9-29:43
+66-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:25:9-29:43
 67            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-67-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:26:13-79
+67-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:26:13-79
 68            android:authorities="com.keppnoteapp.lifecycle-process"
-68-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:27:13-69
+68-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:27:13-69
 69            android:exported="false"
-69-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:28:13-37
+69-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:28:13-37
 70            android:multiprocess="true" />
-70-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezo/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:29:13-40
+70-->[androidx.lifecycle:lifecycle-process:2.2.0-rc02] /Users/rezojoglidze/.gradle/caches/transforms-2/files-2.1/64e64e64dc4a7f72a42155c3d899c336/lifecycle-process-2.2.0-rc02/AndroidManifest.xml:29:13-40
 71    </application>
 72
 73</manifest>
